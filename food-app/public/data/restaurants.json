@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "name": "Burger Heaven",
+      "location": "Hitech City",
+      "latitude": 17.460000,
+      "longitude": 78.380000,
+      "rating": 4.5,
+      "image": "https://b.zmtcdn.com/data/pictures/chains/8/18138658/32b17daab99d36aeb14554d9ecbbd253.jpg?fit=around|960:500&crop=960:500;*,*"
+    },
+    {
+      "id": 2,
+      "name": "Pizza Paradise",
+      "location": "Madhapur",
+      "latitude": 17.448000,
+      "longitude": 78.395000,
+      "rating": 4.2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm7zh9nISbwzbR-TGNPSyy__HMFWnzbhWEsw&s"
+    },
+    {
+      "id": 3,
+      "name": "Biryani Adda",
+      "location": "Kondapur",
+      "latitude": 17.446000,
+      "longitude": 78.391000,
+      "rating": 4.0,
+       "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/1598c8c1-c649-4bdf-9271-4ac5ffe98e85_699731.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dosa Delight",
+      "location": "Jubilee Hills",
+      "latitude": 17.425000,
+      "longitude": 78.430000,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYGK4uMqdveTidY8cLB5Va8AoPEYZkvkPMg&s"
+    },
+    {
+      "id": 5,
+      "name": "Vegan Bistro",
+      "location": "Sainikpuri",
+      "latitude": 17.516000,
+      "longitude": 78.558000,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdvIV6mElMDuMr2FZJV9E8uYpjIm4xBQ89sg&s"
+    },
+    {
+      "id": 6,
+      "name": "Rameshwaram Cafe",
+      "location": "Bengaluru",
+      "latitude": 12.971600,
+      "longitude": 77.594600,
+      "rating": 4.3,
+      "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/05/19201331/Rameshwaram-Cafe-Bangalore-2-1600x900.jpg"
+    },
+    {
+        "id": 7,
+        "name": "chinese restaurant",
+        "location": "Bengaluru",
+        "latitude": 12.971600,
+        "longitude": 77.594600,
+        "rating": 4.3,
+        "image": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2950%2Ftrend20201005112101.jpg"
+      },
+      {
+        "id": 8,
+        "name": "mexican Delight",
+        "location": "secunderabad",
+        "latitude": 17.428892007825265, 
+        "longitude": 78.51618543940214,
+        "rating": 4.3,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOt52kXYMRMF8z11fThxYeUj6KjaHxG82Ww&s"
+      },
+      {
+        "id": 8,
+        "name": "Food Plaza",
+        "location": "secunderabad",
+        "latitude": 17.428892007825265, 
+        "longitude": 78.51618543940214,
+        "rating": 4.3,
+        "image": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141353.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Chai-Biscuit",
+        "location": "Sainikpuri",
+        "latitude": 17.516000,
+      "longitude": 78.558000,
+        "rating": 4.3,
+        "image": "https://c.ndtvimg.com/2023-02/1cptsurg_chai-tea-biscuit2_625x300_22_February_23.jpg"
+      }
+
+    
+  ]
+  
