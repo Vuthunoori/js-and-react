@@ -1,0 +1,21 @@
+{
+  "name": "npm-proj",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "laharinpm"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "lahari",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
